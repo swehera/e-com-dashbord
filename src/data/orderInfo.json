@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Hira",
+    "order_time": "22 hrs ago",
+    "payment_status": "on hold",
+    "product_name": "i-phone pro max",
+    "amount": 2500
+  },
+  {
+    "id": 2,
+    "customer_name": "Himel",
+    "order_time": "5 days ago",
+    "payment_status": "complete",
+    "product_name": "i-phone pro max",
+    "amount": 600
+  },
+  {
+    "id": 3,
+    "customer_name": "Didar",
+    "order_time": "1 week ago",
+    "payment_status": "delete",
+    "product_name": "i-phone pro",
+    "amount": 1000
+  }
+]
